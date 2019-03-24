@@ -12,4 +12,6 @@ echo("Ola Hcode");
 //ISSO É COMENTÁRIO
 >>>>>>> 7f52cb2249c4868532e3cea9c12d8f6533bedcd5
 
+echo"teste";
+
 ?>
